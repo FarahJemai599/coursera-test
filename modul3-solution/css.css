@@ -1,0 +1,41 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar */
+.navbar-default {
+    background-color: #f8f8f8;
+    border-color: #e7e7e7;
+}
+
+.navbar-brand {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+/* Page Heading */
+h1 {
+    margin-bottom: 30px;
+}
+
+.tall-section {
+    background-color: #f4f4f4;
+    padding: 20px;
+    height: 1000px;
+    border: 1px solid #ddd;
+}
+
+.tall-section h3 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Mobile Navbar Dropdown */
+.navbar-default .navbar-nav > li > a {
+    color: #333;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    background-color: #e7e7e7;
+}
